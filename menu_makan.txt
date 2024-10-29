@@ -1,0 +1,6 @@
+Daftar Menu:
+1.senin :
+ - Tempe orek
+ - Bubur
+ - Nasi
+ - gulai
