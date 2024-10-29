@@ -4,3 +4,12 @@ Daftar Menu:
  - Bubur
  - Nasi
  - gulai
+ 2.selasa
+ - Tahu
+ - Mie
+ - Gorengan
+3.Rabu 
+- telur
+- jajan
+- oke
+
